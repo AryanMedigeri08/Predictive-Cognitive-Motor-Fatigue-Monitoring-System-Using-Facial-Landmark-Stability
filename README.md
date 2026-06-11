@@ -187,4 +187,3 @@ Covers: math utils, smoothing, fatigue model, confidence, recovery, calibration 
 ## License
 
 This project is for educational and research purposes.
->>>>>>> 265ab35 (Initial Commit)
