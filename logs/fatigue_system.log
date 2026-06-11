@@ -1,0 +1,5 @@
+[2026-02-19 19:36:16,453] INFO — Starting 90s calibration...
+[2026-02-19 19:37:46,451] INFO — Calibration complete. EAR_0=0.196, MAR_0=0.003, BF_0=14.7
+[2026-02-19 19:37:46,504] INFO — CSV log started: C:\Programming_Files_Dev\Programming Files (Tasks & Projects)\Python\driver_fatigue_system\logs\fatigue_log_2026-02-19.csv
+[2026-02-19 19:39:30,329] INFO — KeyboardInterrupt — shutting down.
+[2026-02-19 19:39:30,679] INFO — CSV logger closed.
