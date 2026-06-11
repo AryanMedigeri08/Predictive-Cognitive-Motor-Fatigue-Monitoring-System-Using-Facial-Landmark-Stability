@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # Predictive Cognitive-Motor Fatigue Monitoring System
-=======
+
 # Predictive-Cognitive-Motor-Fatigue-Monitoring-System-Using-Facial-Landmark-Stability
 
 # Driver Fatigue & Cognitive Degradation Monitoring System
->>>>>>> 1e3990f92e6015813bea0660fae914d98fdfb410
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green?logo=opencv)](https://opencv.org/)
