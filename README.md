@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Predictive-Cognitive-Motor-Fatigue-Monitoring-System-Using-Facial-Landmark-Stability
-=======
+
 # Driver Fatigue & Cognitive Degradation Monitoring System
 
 A production-ready, real-time driver fatigue monitoring system built with Python, OpenCV, and MediaPipe. Features personalised calibration, dual-axis fatigue modelling, recovery dynamics, and edge-deployable architecture.
