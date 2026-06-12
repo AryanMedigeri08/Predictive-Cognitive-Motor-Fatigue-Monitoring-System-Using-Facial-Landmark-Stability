@@ -12,6 +12,11 @@
 A production-ready, edge-deployable solution for detecting driver fatigue through eye closure, gaze drift, head pose deviation, and mouth activity with adaptive recovery dynamics.
 
 ---
+## Authors
+Sakshi Sharan. 
+Aryan Medigeri. 
+Arnav Shende. 
+---
 
 ## Key Features
 
@@ -267,18 +272,6 @@ Example `calibration_profile.json`:
 
 ---
 
-## License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- **Free to use** for personal and commercial projects
-- **Modify and distribute** with attribution
-- **Use in proprietary software** (with license notice)
-- **No liability** — provided as-is
-
----
-
 ## Contributing
 
 Contributions are welcome! Please:
@@ -305,12 +298,6 @@ For issues, questions, or suggestions:
 - **OpenCV** — Computer vision processing
 - **NumPy/SciPy** — Numerical computing
 - Research in driver fatigue detection and human factors
-
----
-
-## ⚠️ Disclaimer
-
-This system is designed as a supplementary monitoring tool and should **not be the sole basis** for safety-critical decisions. Always follow local regulations and driver safety guidelines.
 
 ---
 
@@ -403,6 +390,4 @@ Covers: math utils, smoothing, fatigue model, confidence, recovery, calibration 
 - Reduce `SMOOTHING_WINDOW_*` values for lower latency
 - Increase `CSV_LOG_INTERVAL` to reduce I/O overhead
 
-## License
 
-This project is for educational and research purposes.
