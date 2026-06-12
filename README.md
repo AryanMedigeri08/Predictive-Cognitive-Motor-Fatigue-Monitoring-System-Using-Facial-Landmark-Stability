@@ -13,9 +13,9 @@ A production-ready, edge-deployable solution for detecting driver fatigue throug
 
 ---
 ## Authors
-Sakshi Sharan 
-Aryan Medigeri
-Arnav Shende
+Sakshi Sharan. 
+Aryan Medigeri. 
+Arnav Shende. 
 ---
 
 ## Key Features
